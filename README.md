@@ -1,4 +1,4 @@
-# Student-management
+# Python SQL connector projects
 
 This is a student management program using SQL and Python.
 
